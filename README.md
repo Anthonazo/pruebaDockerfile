@@ -1,6 +1,6 @@
 # Prueba Dockerfile
 
-**Por favor: Correr con el comando ** 
+## Correr con el comando: docker run -d -it -p 80:80 dockerprueba  
 
 Este es un readme que va a incluir la informacion sobre configuracion de ubuntu, angular y nginx
 
@@ -19,6 +19,7 @@ Como se puede ver se instalo directamente sobre la imagen el servidor nginx, nod
 
 ![image](https://github.com/Anthonazo/pruebaDockerfile/assets/118082256/e48b5262-ff8f-4d52-ac7c-ffe093688303)
 
- * Finalmente su resultado lo copiamos en el archivo por defecto de nginx
+ * Finalmente el resultado de la  en el archivo por defecto de nginx y se declara el comando que va a levantar nginx en ubuntu
 
-![image](https://github.com/Anthonazo/pruebaDockerfile/assets/118082256/9f115632-83aa-4189-a029-031c9114c5cb)
+![image](https://github.com/Anthonazo/pruebaDockerfile/assets/118082256/b73bf81f-76d3-4c4c-a1a5-2ec46d1e7717)
+

@@ -23,3 +23,12 @@ Como se puede ver se instalo directamente sobre la imagen el servidor nginx, nod
 
 ![image](https://github.com/Anthonazo/pruebaDockerfile/assets/118082256/b73bf81f-76d3-4c4c-a1a5-2ec46d1e7717)
 
+* Si accedemos a la carpeta se puede observar el html del proyecto angular en nginx
+
+![image](https://github.com/Anthonazo/pruebaDockerfile/assets/118082256/ec34a211-4377-46cb-8a65-abb23a8fa5da)
+
+* Asi se veria el resultado final
+
+![image](https://github.com/Anthonazo/pruebaDockerfile/assets/118082256/f88adecf-712f-452f-982e-7127409a6d3a)
+
+

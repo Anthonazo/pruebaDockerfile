@@ -1,6 +1,8 @@
 # Prueba Dockerfile
 
+## Correr con el comando: docker build -t anthonazoo/dockerprueba:latest . 
 ## Correr con el comando: docker run -d -it -p 80:80 anthonazoo/dockerprueba  
+
 
 Este es un readme que va a incluir la informacion sobre configuracion de ubuntu, angular y nginx
 
